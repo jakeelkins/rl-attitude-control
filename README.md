@@ -31,4 +31,4 @@ then use the envs and notebooks as you see fit. Feel free to send me a question,
 See the two IPython notebooks I included on how to use the envs.
 
 # Packages required
-I didnt' go thru and make a requirements.txt so just install whatever part you're using that you don't have. In general, if you have numpy, numba, gym, and pytorch, you'll be good. I used tensorboardX for monitoring with pytorch. 
+I didn't go thru and make a requirements.txt, so just install whatever part you're using that you don't have. In general, if you have numpy, numba, gym, and pytorch, you'll be good. I used tensorboardX for monitoring with pytorch. 
