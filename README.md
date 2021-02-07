@@ -1,6 +1,9 @@
 # rl-attitude-control
 code I used for my RL-based spacecraft attitude control research project.
 
+An example gif I made in [Blender](https://www.blender.org/) of an agent I trained with these envs and TD3 detumbling a spacecraft:
+![Detumble example](detumble_gif.gif)
+
 Conference papers this was used in: 
 - [Discrete variant](https://www.researchgate.net/publication/344659958_Autonomous_Spacecraft_Attitude_Control_Using_Deep_Reinforcement_Learning "Autonomous Spacecraft Attitude Control Using Deep Reinforcement Learning")
 - [Continuous variant](https://www.researchgate.net/publication/343834157_Adaptive_Continuous_Control_of_Spacecraft_Attitude_Using_Deep_Reinforcement_Learning "Adaptive Continuous Control of Spacecraft Attitude Using Deep Reinforcement Learning")
@@ -21,6 +24,7 @@ Feel free to edit the reward functions and all that inside the gym envs themselv
 # Installation
 I would just clone down the repo:
 > git clone https://github.com/jakeelkins/rl-attitude-control.git
+
 then use the envs and notebooks as you see fit. Feel free to send me a question, my email is on those conference papers.
 
 # Usage
