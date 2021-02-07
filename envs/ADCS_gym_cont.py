@@ -3,7 +3,7 @@ Jake Elkins built this boi
 
 spacecraft attitude control simulator, built in the OpenAI gym format for easy interface with popular RL libraries.
 
-this one is continuous control, with my last reward function, the one I presented at IAC.
+this one is continuous control.
 '''
 
 import gym

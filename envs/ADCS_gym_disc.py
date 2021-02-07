@@ -1,3 +1,10 @@
+'''
+Jake Elkins built this boi
+
+spacecraft attitude control simulator, built in the OpenAI gym format for easy interface with popular RL libraries.
+
+this one is discrete control.
+'''
 import gym
 from gym import spaces, logger
 
